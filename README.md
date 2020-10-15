@@ -11,4 +11,4 @@
 
 预览：
 
-![screen](https://cdn.evink.cn/94xsm/s.jpg)
+![screen](http://cdn.evink.cn/94xsm/s.jpg)
